@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
-*
 * updates the value it points to to 98
-*
 */
 
 
